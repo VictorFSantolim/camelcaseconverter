@@ -1,5 +1,5 @@
 
-#include "ccclib.h"
+#include "ccc_lib.h"
 
 void camelcase_to_underline(char *input, char *output) {
 
