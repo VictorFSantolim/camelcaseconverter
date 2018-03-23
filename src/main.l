@@ -1,6 +1,11 @@
 
 %{
 
+	//Victor Ferrao Santolim
+	//RA 187888
+
+	//Programa em Lex que faz a conversao de Camel Case
+
 #include <stdio.h>
 #include "ccc_lib.h"
 char output[100];
